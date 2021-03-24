@@ -104,6 +104,35 @@ function PaginationButton (page, items) {
 
 
 
+// Creating the prev and next  button function 
+
+
+// ***88*****888*888*8*8*88  Prev and next function are giving errors ********************
+
+let prevbutton = document.getElementById("bottonone");
+let nextbutton = document.getElementById("buttontwo");
+
+
+// prevbutton.addEventListener('click', function () {
+//     current_page1 = current_page--;
+
+//     // Now call  the displaylist here for the corresponding button . 
+//     DisplayList(items, list_element, rows, current_page1);
+     
+    
+// });
+
+// // nextbutton.addEventListener('click', function () {
+// //     current_page1 = current_page++;
+
+// //     // Now call  the displaylist here for the corresponding button . 
+// //     DisplayList(items, list_element, rows, current_page1);
+     
+    
+// // });
+
+
+
 
 
 
