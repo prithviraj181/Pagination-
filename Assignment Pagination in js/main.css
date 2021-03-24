@@ -78,3 +78,33 @@ main .list .item:hover {
 	background-color: #44EEAA;
 	box-shadow: inset 0px 0px 4px rgba(0, 0, 0, 0.2);
 }
+
+#buttons{
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+
+}
+
+#buttonone{
+
+
+	background-color: #4CAF50;
+}
+
+#buttontwo{
+
+    background-color: #008CBA;
+
+}
+
+
+
+
